@@ -22,6 +22,3 @@ This repository contains a collection of machine learning projects focused on re
 
 To apply machine learning techniques to solve real-world problems and build practical, industry-ready models.
 
----
-
-If you want, I can add a **one-line tagline** or **GitHub profile bio** to match this.
